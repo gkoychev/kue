@@ -22,5 +22,5 @@ jobs.create('task', {
 
 ## Documentation
   
-    for original documentation see
-    https://github.com/LearnBoost/kue
+  for original documentation see
+  [https://github.com/LearnBoost/kue](https://github.com/LearnBoost/kue)
