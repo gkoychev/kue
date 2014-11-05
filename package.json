@@ -2,12 +2,12 @@
     "name": "kue-mod"
   , "version": "0.6.3"
   , "description": "Feature rich priority job queue backed by redis (with unique job support)"
-  , "homepage": "https://github.com/rarog88/kue"
+  , "homepage": "https://github.com/gkoychev/kue"
   , "keywords": ["job", "queue", "worker", "redis"]
   , "author": "TJ Holowaychuk <tj@learnboost.com>"
   , "repository":{
         "type": "git"
-      , "url": "https://github.com/rarog88/kue.git"
+      , "url": "https://github.com/gkoychev/kue.git"
     }
   , "dependencies": {
       "redis": "0.7.2"
